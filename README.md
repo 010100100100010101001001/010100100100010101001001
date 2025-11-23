@@ -210,11 +210,20 @@ Microservices • MVC • Clean Architecture • CQRS • DDD
 
 <p align="center">
 
-  [<img src="https://img.icons8.com/color/100/gmail--v1.png" width="48">](mailto:SEUEMAIL@gmail.com)
+  <!-- EMAIL -->
+  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Написать-orange?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
 
-  [<img src="https://img.icons8.com/color/100/linkedin.png" width="48">](https://www.linkedin.com/in/SEULINK/)
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/SEULINK/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Профиль-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 
-  [<img src="https://img.icons8.com/color/100/internet.png" width="48">](https://SEU-SITE.com)
+  <!-- PORTFÓLIO -->
+  <a href="https://SEU-SITE.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Сайт-black?style=for-the-badge&logo=firefox" alt="Portfolio">
+  </a>
 
 </p>
 
