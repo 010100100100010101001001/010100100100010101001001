@@ -1,137 +1,176 @@
-<h1 align="center">⚡ D Crypt — Full Stack Dev | Cybersecurity Specialist</h1>
+<h1 align="center">⚡ D CRYPT — Full Stack Developer & Cybersecurity Specialist</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/ZwQ2QxP.gif" width="400">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="120"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="120"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="120"/>
 </p>
 
 ---
 
-## 🔥 Обо мне — Кратко
+## 🚀 О себе
+
 <p align="center">
-Я — разработчик полного стека, инженер и специалист по кибербезопасности.  
-Создаю системы, взламываю их, защищаю их и строю архитектуры, которые выдерживают всё.
+Я разработчик полного стека и специалист по кибербезопасности.  
+Занимаюсь инженерией, взломом, защитой систем, архитектурой ПО и робототехникой.
 </p>
 
 ---
 
-# 🚀 Технический стек — Анимированная витрина навыков
+# 🔥 Анимация навыков — Профессиональная витрина
 
 <style>
-.skill-grid {
+.skill-box {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 18px;
+  gap: 20px;
 }
 .skill {
-  padding: 14px 22px;
-  border-radius: 12px;
-  background: #111;
-  color: #fff;
-  font-weight: bold;
-  font-size: 18px;
+  width: 150px;
+  height: 150px;
+  background: #0d0d0d;
   border: 1px solid #333;
-  transition: 0.3s;
-  animation: float 3s ease-in-out infinite;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  transition: 0.35s;
+  animation: float 3.2s ease-in-out infinite;
 }
 .skill:hover {
-  transform: scale(1.12);
-  background: #ff4400;
-  box-shadow: 0 0 15px #ff4400;
+  transform: scale(1.15);
+  box-shadow: 0 0 15px #ff3300;
+  border-color: #ff3300;
 }
 @keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-6px); }
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-7px); }
+  100% { transform: translateY(0px); }
 }
 </style>
 
-<div class="skill-grid">
-  <div class="skill">Python</div>
-  <div class="skill">JavaScript</div>
-  <div class="skill">Node.js</div>
-  <div class="skill">PHP</div>
-  <div class="skill">C / Assembly</div>
-  <div class="skill">Pentest</div>
-  <div class="skill">Exploit Dev</div>
-  <div class="skill">Red Team</div>
-  <div class="skill">Cybersecurity</div>
-  <div class="skill">Networking</div>
-  <div class="skill">DB Engineering</div>
-  <div class="skill">Data Analysis</div>
-  <div class="skill">Mecatrônica</div>
-  <div class="skill">Eletrônica</div>
-  <div class="skill">Engenharia Naval</div>
-  <div class="skill">Robótica Avançada</div>
-  <div class="skill">Desenho Técnico</div>
-  <div class="skill">Software Architecture</div>
-  <div class="skill">Linux</div>
+<div class="skill-box">
+  
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">
+    Python
+  </div>
+
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55">
+    Node.js
+  </div>
+
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55">
+    PHP
+  </div>
+
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55">
+    JavaScript
+  </div>
+
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55">
+    Linux
+  </div>
+
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55">
+    Databases
+  </div>
+
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55">
+    C / Assembly
+  </div>
+
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="55">
+    Pentest / Red Team
+  </div>
+
+  <div class="skill">
+    🤖<br>Robótica Avançada
+  </div>
+
+  <div class="skill">
+    ⚙️<br>Mecatrônica
+  </div>
+
+  <div class="skill">
+    🚢<br>Eng. Naval
+  </div>
+
+  <div class="skill">
+    ⚡<br>Engenharia Elétrica
+  </div>
+
 </div>
 
 ---
 
-# 🧠 Анимация навыков — Прогресс и специализация
+# 📈 Анимация прогресса (100% compatível com GitHub)
 
 <style>
 .progress {
   width: 100%;
-  background: #1a1a1a;
-  border-radius: 10px;
-  margin: 10px 0;
-}
-.progress-bar {
   height: 22px;
+  background: #0f0f0f;
   border-radius: 10px;
-  animation: grow 3s ease-out forwards;
+  margin: 6px 0;
 }
-@keyframes grow {
+.bar {
+  height: 100%;
+  border-radius: 10px;
+  animation: load 2.5s ease-out forwards;
+}
+@keyframes load {
   from { width: 0%; }
 }
 </style>
 
 ### 🔐 Cybersecurity
-<div class="progress"><div class="progress-bar" style="width: 98%; background:#ff3300;"></div></div>
+<div class="progress"><div class="bar" style="width: 98%; background:#ff3300;"></div></div>
 
-### 🛠 Full Stack Development
-<div class="progress"><div class="progress-bar" style="width: 95%; background:#ffaa00;"></div></div>
+### 🧠 Full Stack Development
+<div class="progress"><div class="bar" style="width: 95%; background:#ffaa00;"></div></div>
 
 ### ⚙ Engenharia (Naval, Mecatrônica, Elétrica)
-<div class="progress"><div class="progress-bar" style="width: 90%; background:#00aaff;"></div></div>
+<div class="progress"><div class="bar" style="width: 90%; background:#0099ff;"></div></div>
 
 ### 🤖 Robótica Avançada
-<div class="progress"><div class="progress-bar" style="width: 85%; background:#bb00ff;"></div></div>
+<div class="progress"><div class="bar" style="width: 85%; background:#bb00ff;"></div></div>
 
-### 📊 Data / Administração / Economia
-<div class="progress"><div class="progress-bar" style="width: 80%; background:#00ff88;"></div></div>
-
----
-
-# 🔥 Projects Preview — GIF ShowCase
-
-<p align="center">
-  <img src="https://i.imgur.com/Nh7VbRa.gif" width="400">
-  <img src="https://i.imgur.com/cj8kNWT.gif" width="400">
-</p>
-
-<p align="center">
-  <i>Проекты с упором на безопасность, автоматизацию и высокую инженерную сложность.</i>
-</p>
+### 📊 Administração / Economia / Dados
+<div class="progress"><div class="bar" style="width: 80%; background:#00ff88;"></div></div>
 
 ---
 
-# 🛰 Моя миссия
-✔ Строить системы, которые невозможно сломать  
-✔ Ломать системы, чтобы сделать их сильнее  
-✔ Создавать технологии, выходящие за рамки обычной разработки  
+# 🛰 Проекты (sem GIF quebrado — tudo seguro)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120">
+</p>
+
+<p align="center">
+  <i>Проекты с упором на безопасность, инженерные решения и автоматизацию.</i>
+</p>
 
 ---
 
 # 📬 Контакты
 
 <p align="center">
-  <b>Email:</b> yourmail@domain.com<br>
-  <b>GitHub:</b> github.com/SeuUser<br>
+  <b>Email:</b> youremail@domain.com  
 </p>
 
 ---
 
-<h2 align="center">⚡ Сделано с инженерией, математикой и яростью кибербезопасности ⚡</h2>
+<h2 align="center">⚡ Инженерия • Разработка • Кибербезопасность ⚡</h2>
