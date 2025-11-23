@@ -15,9 +15,8 @@
 ---
 
 # 🧬 О себе
-
-Я инженер-разработчик с сильной технической базой, работающий на стыке  
-**кибербезопасности, низкоуровневых систем, криптографии, автоматизации, инженерии и современной разработки ПО.**
+Я инженер-разработчик, работающий на стыке:  
+**кибербезопасности, низкоуровневых систем, криптографии, робототехники, аналитики и современной разработки ПО.**
 
 ---
 
@@ -28,120 +27,120 @@
 # 🔐 Кибербезопасность
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=23264&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=59843&format=gif" width="48">
-  <img src="https://img.icons8.com/?size=100&id=21237&format=png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/hacker.png" width="48">
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/external-cybersecurity-technology-flaticons-flat-flat-icons.png" width="48">
+  <img src="https://img.icons8.com/ios-glyphs/100/shield.png" width="48">
 </p>
 
-- Penetration Testing (Web, API, Networks, Cloud)
-- Анализ уязвимостей + эксплуатация
-- Post-exploitation • Privilege Escalation
-- Hardening Windows/Linux
-- SIEM • SOC • Threat Hunting
-- Malware Analysis / Reverse Engineering
-- Создание инструментов Red Team
+- Penetration Testing (Web, API, Networks, Cloud)  
+- Анализ уязвимостей + эксплуатация  
+- Malware Analysis  
+- Post-exploitation / PrivEsc  
+- SIEM • SOC • Threat Hunting  
+- Hardening Windows/Linux  
+- Разработка инструментов Red Team
 
 ---
 
 # 💻 Full Stack разработка
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=gif" width="48">
+  <img src="https://img.icons8.com/color/100/html-5.png" width="48">
+  <img src="https://img.icons8.com/color/100/css3.png" width="48">
+  <img src="https://img.icons8.com/color/100/javascript.png" width="48">
+  <img src="https://img.icons8.com/color/100/react-native.png" width="48">
 </p>
 
 ### Front-end  
-HTML • CSS • JavaScript • React • Tailwind • Next.js
+HTML • CSS • JavaScript • React • Tailwind • Next.js  
 
 ### Back-end  
-Node.js • Python • PHP • Express • FastAPI • JWT • OAuth2 • websockets
+Node.js • Python • PHP • Express • FastAPI • JWT • OAuth2 • WebSockets  
 
 ### Архитектуры  
-Microservices • MVC • Clean Architecture • CQRS • DDD
+Microservices • MVC • Clean Architecture • CQRS • DDD  
 
 ---
 
 # 🤖 Низкоуровневое программирование
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=54087&format=gif" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/microchip.png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/cpu.png" width="48">
 </p>
 
-- C / Assembly (x86 / x64)
-- Работа со стеком, памятью и регистрами  
-- Reverse Engineering  
+- C / Assembly x86 / x64  
+- Работа с регистрами, стеком и памятью  
+- Reverse engineering  
 - Патчинг, дизассемблирование  
-- Создание модулей низкого уровня  
+- Создание системных модулей  
 
 ---
 
 # 🛢️ Базы данных
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=100612&format=gif" width="48">
+  <img src="https://img.icons8.com/color/100/mysql-logo.png" width="48">
+  <img src="https://img.icons8.com/color/100/postgreesql.png" width="48">
+  <img src="https://img.icons8.com/color/100/mongodb.png" width="48">
 </p>
 
-- MySQL • PostgreSQL • SQLite • MongoDB  
+- MySQL • PostgreSQL • MongoDB • SQLite  
 - Оптимизация запросов  
-- Репликация • Шардирование  
-- Масштабируемые архитектуры  
+- Шардирование • Репликация  
+- Масштабирование БД  
 
 ---
 
 # 🤖 Инженерия и робототехника
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=33069&format=gif" width="48">
-  <img src="https://img.icons8.com/?size=100&id=114303&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=54087&format=gif" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/robot.png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/electronics.png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/gear.png" width="48">
 </p>
 
 - Мехатроника  
-- Электроника и схемотехника  
-- Датчики, приводы, системы управления  
-- Автоматизация и прототипирование  
-- Аппаратная безопасность  
+- Электроника  
+- Датчики и приводы  
+- Системы управления  
+- Прототипирование • Аппаратная безопасность  
 
 ---
 
 # 📊 Аналитика, экономика и логистика
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=25116&format=gif" width="48">
-  <img src="https://img.icons8.com/?size=100&id=23264&format=png" width="48">
+  <img src="https://img.icons8.com/color/100/combo-chart--v1.png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/currency-exchange.png" width="48">
 </p>
 
 - Анализ данных  
-- Экономические модели  
-- Логистика • Оптимизация цепочек  
-- Статистика и прогнозирование  
+- Логистика и оптимизация цепочек  
+- Математическое моделирование  
+- Статистические модели  
 
 ---
 
-# ⚛️ Инженерия ядерная (Nuclear Engineering)
+# ⚛️ Инженерия ядерная
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=84164&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=59720&format=png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/atom.png" width="48">
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/100/external-nuclear-energy-public-services-flat-icons-inmotus-design.png" width="48">
 </p>
 
 - Физика реакторов  
-- Радиционная защита  
-- Системы охлаждения  
-- Высоконадежные инженерные системы  
+- Теплогидравлика  
+- Радиационная защита  
+- Надежные инженерные системы  
 
 ---
 
-# 🚢 Инженерия военно-морская (Naval Engineering)
+# 🚢 Морская и корабельная инженерия
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=23264&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=59843&format=gif" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/ship.png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/water-transportation.png" width="48">
 </p>
 
 - Гидродинамика  
@@ -151,52 +150,49 @@ Microservices • MVC • Clean Architecture • CQRS • DDD
 
 ---
 
-# 🤖 Мехатроника (Mechatronics)
+# 🤖 Мехатроника
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=33069&format=gif" width="48">
-  <img src="https://img.icons8.com/?size=100&id=114303&format=png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/robot.png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/services.png" width="48">
 </p>
 
-- Робототехника  
-- Автоматизация  
-- Интеграция электроники и механики  
+- Роботы  
 - Системы управления  
+- Интеграция механики и электроники  
 
 ---
 
-# 🏗️ Инфраструктура тяжёлая (Heavy Infrastructure)
+# 🏗️ Инфраструктура тяжелая
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=54087&format=gif" width="48">
-  <img src="https://img.icons8.com/?size=100&id=23264&format=png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/crane.png" width="48">
+  <img src="https://img.icons8.com/ios-filled/100/structural.png" width="48">
 </p>
 
-- Строительство мостов и тоннелей  
-- Промышленные объекты  
-- Крупные технические сооружения  
-- Надежность и инженерный контроль  
+- Строительство мостов  
+- Промышленные комплексы  
+- Технические сооружения  
 
 ---
 
 # 🛠️ DevOps • Docker • Kubernetes
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=114303&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=43889&format=png" width="48">
-  <img src="https://img.icons8.com/?size=100&id=100613&format=png" width="48">
+  <img src="https://img.icons8.com/color/100/docker.png" width="48">
+  <img src="https://img.icons8.com/color/100/kubernetes.png" width="48">
+  <img src="https://img.icons8.com/color/100/amazon-web-services.png" width="48">
 </p>
 
 - CI/CD  
 - Docker контейнеризация  
 - Kubernetes оркестрация  
 - Мониторинг, логирование  
-- Инфраструктура как код  
+- IaC • Terraform • Ansible  
 
 ---
 
-# ⚡ Философия работы
-
+# ⚡ Философия работы  
 > **«Системы должны быть точными, безопасными и инженерно выверенными.»**
 
 ---
@@ -217,4 +213,3 @@ Microservices • MVC • Clean Architecture • CQRS • DDD
   <img src="https://img.shields.io/badge/LinkedIn-Профиль-blue?style=for-the-badge&logo=linkedin">
   <img src="https://img.shields.io/badge/Portfolio-Сайт-black?style=for-the-badge&logo=firefox">
 </p>
-
