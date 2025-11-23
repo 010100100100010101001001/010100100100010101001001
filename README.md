@@ -209,7 +209,12 @@ Microservices • MVC • Clean Architecture • CQRS • DDD
 # 📫 Контакты
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-Написать-orange?style=for-the-badge&logo=gmail">
-  <img src="https://img.shields.io/badge/LinkedIn-Профиль-blue?style=for-the-badge&logo=linkedin">
-  <img src="https://img.shields.io/badge/Portfolio-Сайт-black?style=for-the-badge&logo=firefox">
+
+  [<img src="https://img.icons8.com/color/100/gmail--v1.png" width="48">](mailto:SEUEMAIL@gmail.com)
+
+  [<img src="https://img.icons8.com/color/100/linkedin.png" width="48">](https://www.linkedin.com/in/SEULINK/)
+
+  [<img src="https://img.icons8.com/color/100/internet.png" width="48">](https://SEU-SITE.com)
+
 </p>
+
